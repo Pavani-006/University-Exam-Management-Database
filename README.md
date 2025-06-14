@@ -1,4 +1,4 @@
-# 🎓 University Database Management System (RDBMS Project)
+# 🎓 University Exam Management System 
 
 This project implements a **University Relational Database Schema** using SQL. It models various real-world academic entities like students, faculty, courses, exams, attendance, and department relationships.
 
